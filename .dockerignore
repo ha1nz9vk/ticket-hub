@@ -1,0 +1,12 @@
+
+.git
+.gitignore
+**/node_modules
+**/dist
+**/.next
+.env
+.env.*
+**/.env
+**/.env.*
+**/*.log
+**/*.tsbuildinfo
